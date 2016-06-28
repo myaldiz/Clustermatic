@@ -1,0 +1,2 @@
+var zoomLevel = 14;
+ var MapCenter = new google.maps.LatLng(38.4521,27.2082);
