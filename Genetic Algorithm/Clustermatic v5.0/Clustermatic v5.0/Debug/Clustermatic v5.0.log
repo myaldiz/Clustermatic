@@ -1,0 +1,52 @@
+﻿  MyForm.cpp
+MyForm.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+MyForm.cpp(123): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MyForm.cpp(129): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+MyForm.cpp(149): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MyForm.cpp(153): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+MyForm.cpp(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+MyForm.cpp(168): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MyForm.cpp(172): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+MyForm.cpp(311): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(311): error C3861: 'makecol': identifier not found
+MyForm.cpp(311): error C3861: 'clear_to_color': identifier not found
+MyForm.cpp(316): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(316): error C3861: 'line': identifier not found
+MyForm.cpp(317): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(317): error C3861: 'makecol': identifier not found
+MyForm.cpp(317): error C3861: 'circlefill': identifier not found
+MyForm.cpp(319): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(319): error C3861: 'line': identifier not found
+MyForm.cpp(320): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(320): error C3861: 'makecol': identifier not found
+MyForm.cpp(320): error C3861: 'circlefill': identifier not found
+MyForm.cpp(322): error C2065: 'screen': undeclared identifier
+MyForm.cpp(322): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(322): error C3861: 'draw_sprite': identifier not found
+MyForm.cpp(359): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+MyForm.cpp(368): error C3861: 'makecol': identifier not found
+MyForm.cpp(371): error C2065: 'key': undeclared identifier
+MyForm.cpp(371): error C2065: 'KEY_SPACE': undeclared identifier
+MyForm.cpp(372): error C2065: 'mouse_b': undeclared identifier
+MyForm.cpp(375): error C2065: 'mouse_x': undeclared identifier
+MyForm.cpp(376): error C2065: 'mouse_y': undeclared identifier
+MyForm.cpp(377): error C2563: mismatch in formal parameter list
+MyForm.cpp(377): error C2228: left of '.x' must have class/struct/union
+MyForm.cpp(378): error C2563: mismatch in formal parameter list
+MyForm.cpp(378): error C2228: left of '.y' must have class/struct/union
+MyForm.cpp(379): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(379): error C3861: 'circlefill': identifier not found
+MyForm.cpp(380): error C2065: 'screen': undeclared identifier
+MyForm.cpp(380): error C2065: 'buffer': undeclared identifier
+MyForm.cpp(380): error C3861: 'draw_sprite': identifier not found
+MyForm.cpp(382): error C2065: 'mouse_b': undeclared identifier
+MyForm.cpp(384): error C2065: 'mouse_b': undeclared identifier
+MyForm.cpp(403): error C3861: 'makecol': identifier not found
+MyForm.cpp(427): error C3861: 'rest': identifier not found
